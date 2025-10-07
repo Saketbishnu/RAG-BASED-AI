@@ -1,0 +1,7 @@
+You're having some trouble understanding where certain HTML tags like "htm" are used in our Sigma web development course.
+
+Don't worry, I'm here to help clarify things for you! 
+
+The term 'html' is actually just a shortened version of 'HyperText Markup Language'. It's the standard markup language used to create web pages. You can find more information on how to use HTML tags in general, including those that are similar to "htm", by checking out video #7 of our course, which covers 'Forms and input tags in HTML'.
+
+Now, let me quickly show you where you can find the answer to your question about "htm" - we cover it briefly at around 162 seconds into video #5. Don't worry if you miss that part; just jump straight to that section when you're ready.
