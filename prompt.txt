@@ -1,0 +1,6 @@
+I am teaching web development in my Sigma web development course. Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
+
+{"title":{"1769":"Image, Lists, and Tables in HTML _ Sigma Web Development Course - Tutorial #5.mp4","1849":"Image, Lists, and Tables in HTML _ Sigma Web Development Course - Tutorial #5.mp4","538":"Your First HTML Webs","825":"Basic Structure of an HTML Webs","249":"tutorial"},"number":{"1769":"5.mp4","1849":"5.mp4","538":"2.mp4","825":"3.mp4","249":"1"},"start":{"1769":596.0,"1849":756.0,"538":551.0,"825":551.0,"249":551.0},"end":{"1769":598.0,"1849":758.0,"538":553.0,"825":553.0,"249":553.0},"text":{"1769":" I will write in TD","1849":" and I want to group it in t-foot.","538":" You are studying.","825":" You are studying.","249":" You are studying."}}
+---------------------------------
+"where is sementatic tgs taught?"
+User asked this question related to the video chunks, you have to answer in a human way (dont mention the above format, its just for you) where and how much content is taught in which video (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course
